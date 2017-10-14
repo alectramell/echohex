@@ -4,7 +4,11 @@
 
 ## INSTALLATION: ##
 
-	$ sudo dpkg -i <(curl -s https://github.com/alectramell/echohex/raw/master/echohex-1.0.deb)
+**OPEN TERMINAL, AND RUN..**
+
+	$ wget -O /home/$(whoami)/Desktop/echohex-1.0.deb https://github.com/alectramell/echohex/raw/master/echohex-1.0.deb
+
+	$ sudo dpkg -i /home/$(whoami)/Desktop/echohex-1.0.deb
 
 ## USAGE: ##
 
