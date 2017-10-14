@@ -10,7 +10,7 @@
 
 ## INSTALLATION: ##
 
-**THEN, IN TERMINAL, RUN..**
+**NOW, IN TERMINAL, RUN..**
 
 	$ sudo dpkg -i /home/$(whoami)/Desktop/echohex-1.0.deb
 
