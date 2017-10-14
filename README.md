@@ -2,11 +2,15 @@
 # ECHOHEX v1.0 #
 **Hexidecimal Transcriber for Linux Terminal**
 
-## INSTALLATION: ##
+## DOWNLOAD: ##
 
 **OPEN TERMINAL, AND RUN..**
 
 	$ wget -O /home/$(whoami)/Desktop/echohex-1.0.deb https://github.com/alectramell/echohex/raw/master/echohex-1.0.deb
+
+## INSTALLATION: ##
+
+**THEN, IN TERMINAL, RUN..**
 
 	$ sudo dpkg -i /home/$(whoami)/Desktop/echohex-1.0.deb
 
