@@ -6,19 +6,19 @@
 
 ## USAGE:
 
-	STRING TO HEX..
+	__STRING TO HEX..__
 
 		$ echohex "hello world"
 
-	HEX TO STRING..
+	__HEX TO STRING..__
 
 		$ showhex "68656c6c6f20776f726c64"
 
 ## AUTHORS:
 
-	Alec Tramell, DMA
+	**Alec Tramell, DMA**
 	
-	Apollon Data Metrics (AGY)
-	https://www.facebook.com/apollondma
+	**Apollon Data Metrics (AGY)**
+	<https://www.facebook.com/apollondma>
 	
 	
