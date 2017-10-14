@@ -1,5 +1,6 @@
+![Apollon Data Metrics](https://github.com/alectramell/beacons/raw/master/icon.png)
 # ECHOHEX v1.0 #
-Hexidecimal Transcriber for Linux Terminal
+**Hexidecimal Transcriber for Linux Terminal**
 
 ## INSTALL: ##
 
@@ -20,6 +21,7 @@ Hexidecimal Transcriber for Linux Terminal
 **Alec Tramell, DMA**
 	
 **Apollon Data Metrics (AGY)**
+
 [http://www.facebook.com/apollondma](https://www.facebook.com/apollondma)
 	
 	
