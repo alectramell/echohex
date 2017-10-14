@@ -1,24 +1,24 @@
-# ECHOHEX v1.0
+# ECHOHEX v1.0 #
 
-## INSTALL:
+## INSTALL: ##
 
 		$ sudo dpkg -i <(curl -s https://github.com/alectramell/echohex/raw/master/echohex-1.0.deb)
 
-## USAGE:
+## USAGE: ##
 
-	__STRING TO HEX..__
+	**STRING TO HEX..**
 
 		$ echohex "hello world"
 
-	__HEX TO STRING..__
+	**HEX TO STRING..**
 
 		$ showhex "68656c6c6f20776f726c64"
 
-## AUTHORS:
+## AUTHORS: ##
 
 	**Alec Tramell, DMA**
 	
 	**Apollon Data Metrics (AGY)**
-	<https://www.facebook.com/apollondma>
+	[http://www.facebook.com/apollondma](https://www.facebook.com/apollondma)
 	
 	
