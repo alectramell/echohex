@@ -2,7 +2,7 @@
 # ECHOHEX v1.0 #
 **Hexidecimal Transcriber for Linux Terminal**
 
-## INSTALL: ##
+## INSTALLATION: ##
 
 	$ sudo dpkg -i <(curl -s https://github.com/alectramell/echohex/raw/master/echohex-1.0.deb)
 
